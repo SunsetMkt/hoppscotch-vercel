@@ -14,3 +14,6 @@ Install Command: `npx pnpm i --store=node_modules/.pnpm-store`
 Root Directory: `(empty)`
 
 Environment Variables: https://github.com/hoppscotch/hoppscotch/blob/main/.env.example
+
+## Deploy proxyscotch on Vercel
+https://github.com/SunsetMkt/proxyscotch-vercel
